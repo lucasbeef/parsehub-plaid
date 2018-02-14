@@ -1,5 +1,5 @@
-const axios = require('../node_modules/axios')
-const querystring = require('../node_modules/querystring')
+const axios = require('../../axios')
+const querystring = require('../../querystring')
 
 const PING_EVERY = 3
 
